@@ -61,7 +61,7 @@ dependencies 和 dependency
 
 ```
 构建
-
+ 
 build -- build表示与构建相关的配置 例如设置编译插件的JDK版本
 
 <build>
