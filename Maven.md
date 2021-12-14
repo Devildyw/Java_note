@@ -124,7 +124,7 @@ Junit单元测试 -- 测试的是类中的方法 每一个方法都是独立测�
 			Maven借助单元测试 批量测试类中的大量方法是否符合预期
 Junit使用
 	1. 加入依赖 在pom.xml加入单元测试依赖
-		<!-- https://mvnrepository.com/artifact/junit/junit -->
+	<!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
