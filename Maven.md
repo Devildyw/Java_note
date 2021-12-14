@@ -43,9 +43,9 @@ dependencies 和 dependency
 	<!-- 依赖 Java代码中 import -->
 	<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 	<dependency>
-    	<groupId>mysql</groupId>
-    	<artifactId>mysql-connector-java</artifactId>
-    	<version>5.1.9</version>
+    		<groupId>mysql</groupId>
+    		<artifactId>mysql-connector-java</artifactId>
+    		<version>5.1.9</version>
 	</dependency>
 </dependencies>
 ```
