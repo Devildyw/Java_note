@@ -33,7 +33,7 @@ packaging -- 打包后压缩文件的扩展名 默认是jar web应用是war pack
 
 ```
 依赖
-
+ 
 [Maven中央仓库](https://mvnrepository.com/repos/central)
 
 dependencies 和 dependency
